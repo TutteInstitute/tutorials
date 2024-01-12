@@ -1,6 +1,5 @@
 name: tuttorials
 dependencies:
-  - bokeh
   - ipywidgets
   - jupyterlab
   - jupyterlab-lsp
@@ -8,14 +7,14 @@ dependencies:
   - numba
   - numpy
   - pandas
-  - panel
   - pip
-  - pylsp-mypy
   - python>=3.10
   - python-lsp-server
   - scipy
   - pip:
+    - bokeh
     - hdbscan
+    - panel
     - thisnotthat
     - umap
     - vectorizers
