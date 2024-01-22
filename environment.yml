@@ -1,4 +1,4 @@
-name: tuttorials
+name: tutte-tutorials
 dependencies:
   - ipywidgets
   - jupyterlab
