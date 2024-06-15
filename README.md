@@ -2,7 +2,12 @@
 
 **True README in construction**
 
-A collection of tutorials on methodologies involving the tools of the Institute.
+## Table of Contents
+[List of Tutorials](#Order)
+[Requirements](#Requirements)  
+[Installation](#Getting-started)  
+
+A collection of tutorials on methodologies involving the tools of the Institute
 
 ## Requirements
 
@@ -140,3 +145,7 @@ You can now close the terminal.
 
 From here, we are ready to [start](1-recipes-bag-of-words.ipynb)!
 
+## Order
+The existing tutorials, in a suggested order of reading, are:
+1. [Introduction to Data Visualization](1-recipes-bag-of-words.ipynb)
+2. [Topic Modelling](2-topic-modelling-pokemon.ipynb)
