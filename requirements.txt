@@ -15,4 +15,4 @@ scipy
 thisnotthat
 umap
 vectorizers
-
+datamapplot
