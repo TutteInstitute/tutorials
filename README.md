@@ -1,5 +1,7 @@
 # Tutorials
 
+A collection of tutorials on methodologies involving the tools of the Institute
+
 **True README in construction**
 
 ## Table of Contents
@@ -10,7 +12,6 @@
 
 [Syllabus](#Syllabus)
 
-A collection of tutorials on methodologies involving the tools of the Institute
 
 ## Requirements
 
