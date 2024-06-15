@@ -138,4 +138,5 @@ you should see a new blue-and-yellow icon show up under **Notebooks**,
 with the label *Tutte Institute Tutorials*.
 You can now close the terminal.
 
-From here, we are ready to [start](tutorial-recipes-bag-of-words.ipynb)!
+From here, we are ready to [start](1-recipes-bag-of-words.ipynb)!
+
